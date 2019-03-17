@@ -1,0 +1,26 @@
+{
+  "name": "url-unserialize",
+  "version": "0.1.0",
+  "description": "Serialize and unserialize objects to URL",
+  "main": "index.js",
+  "repository": "git@github.com:felipelavinz/url-unserialize.git",
+  "author": "Felipe Lavín Z. <felipe@bloom-ux.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {
+    "babel-jest": "^24.5.0",
+    "jest": "^24.5.0",
+    "underscore": "^1.9.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "browserslist": [
+    "> 0.5%",
+    "last 2 versions"
+  ],
+  "jest": {
+    "verbose": true
+  }
+}
