@@ -57,3 +57,5 @@ Output:
 	quick: [ 1 ]
 }
 ```
+
+Check `index.test.js` for a few more examples.
