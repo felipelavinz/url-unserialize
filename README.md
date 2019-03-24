@@ -18,8 +18,8 @@ Output:
 
 ``` json
 {
-	foo: 'bar',
-	lorem: 'ipsum'
+	"foo": "bar",
+	"lorem": "ipsum"
 }
 ```
 
@@ -33,9 +33,9 @@ Output:
 
 ```json
 {
-	foo: 'bar',
-	lorem: {
-		ipsum: 'dolor'
+	"foo": "bar",
+	"lorem": {
+		"ipsum": "dolor"
 	}
 }
 ```
@@ -50,11 +50,11 @@ Output:
 
 ```json
 {
-	foo: [ 1, 2 ],
-	lorem: {
-		ipsum: 'dolor'
+	"foo": [ 1, 2 ],
+	"lorem": {
+		"ipsum": "dolor"
 	},
-	quick: [ 1 ]
+	"quick": [ 1 ]
 }
 ```
 
